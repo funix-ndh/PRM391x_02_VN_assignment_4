@@ -1,0 +1,2 @@
+rootProject.name='ShopMovies'
+include ':app'

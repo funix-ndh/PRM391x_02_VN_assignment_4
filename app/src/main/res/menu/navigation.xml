@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_movies"
+        android:icon="@mipmap/baseline_home_black_24"
+        android:title="@string/movies" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@mipmap/baseline_person_black_24"
+        android:title="@string/profile" />
+
+    <item
+        android:id="@+id/navigation_logout"
+        android:icon="@mipmap/baseline_subdirectory_arrow_right_black_24"
+        android:title="@string/log_out" />
+
+</menu>

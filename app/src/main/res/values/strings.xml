@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShopMovies</string>
+    <string name="log_out">Log out</string>
+    <string name="profile">Profile</string>
+    <string name="movies">Movies</string>
+
+    <string name="facebook_app_id">689907998479128</string>
+    <string name="fb_login_protocol_scheme">fb689907998479128</string>
+    <string name="web_client_id">213945790396-duli13vk67hb89gvsol243o0tpin2gtt.apps.googleusercontent.com</string>
+
+</resources>
